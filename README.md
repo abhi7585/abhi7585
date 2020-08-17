@@ -1,5 +1,5 @@
 <h1>Hi Traveller, I am Abhishek <img src="https://raw.githubusercontent.com/abhi7585/abhi7585/master/gifs/Hi.gif" width="30px"></h1>
-<img align='right' src="https://github.com/abhi7585/abhi7585/blob/master/my_image.jpg" width="230" />
+<img align='right' src="https://github.com/abhi7585/abhi7585/blob/master/my_image.png" width="230" />
 
 <a href="https://linkedin.com/in/abhi7585"><img src="https://github.com/abhi7585/abhi7585/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/abhi7585"><img src="https://github.com/abhi7585/abhi7585/blob/master/logos/github-logo.png" width="40" /></a>
