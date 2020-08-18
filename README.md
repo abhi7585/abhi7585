@@ -3,16 +3,18 @@
 <details>
 <summary> About me 💻</summary>
 <p>
-Seeking an entry-level position to begin my career in a professional environment. Secure a responsible career opportunity with a company, where I can fully utilize my training and skills while making a significant contribution to the success of the company. 
+I am a final year student at Lokmanya Tilak College of Engineering studying computer science. I have a passion for learning and developing new skills related to programming and computer science.
+Currently seeking an entry-level position to begin my career in a professional environment. Secure a responsible career opportunity with a company, where I can fully utilize my training and skills while making a significant contribution to the success of the company. 
 </p>
 </details>    
  
 <details>
-  <summary>Languages: </summary>
+  <summary>Skills: </summary>
   <pre>
-    - Frontend: HTML5, CSS
-    - Backend: Java
-    - Database: MySQL, Oracle, MongoDB
+    - Languages: Python, Java, C
+    - Database: MySQL, MongoDB
+    - Analytical: PowerBi, MS Excel
+    - IDE: Jupyter Notebook, Google Colab, Visual Studio Code, IntelliJ
     - Version Control: GIT
   </pre>
 </details>
