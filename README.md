@@ -12,7 +12,8 @@ Currently seeking an entry-level position to begin my career in a professional e
   <summary>Skills: </summary>
   <pre>
     - Languages: Python, Java, C
-    - Database: MySQL, MongoDB
+    - Database: MySQL, SQL Server
+    - Framework: Flask
     - Analytical: PowerBi, MS Excel
     - IDE: Jupyter Notebook, Google Colab, Visual Studio Code, IntelliJ
     - Version Control: GIT
