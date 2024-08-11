@@ -21,7 +21,7 @@ Currently seeking an entry-level position to begin my career in a professional e
 
 <br >
 
-![Abhishek's Github Stats](https://github-readme-stats.vercel.app/api?username=abhishek-tripathi-analyst&show_icons=true&theme=tokyonight)
+![Abhishek's Github Stats](https://github-readme-stats.vercel.app/api?username=abhi7585&show_icons=true&theme=tokyonight)
 
 <br >
 
