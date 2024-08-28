@@ -3,8 +3,7 @@
 <details>
 <summary> About me 💻</summary>
 <p>
-I am a final year student at Lokmanya Tilak College of Engineering studying computer science. I have a passion for learning and developing new skills related to programming and computer science.
-Currently seeking an entry-level position to begin my career in a professional environment. Secure a responsible career opportunity with a company, where I can fully utilize my training and skills while making a significant contribution to the success of the company. 
+A data-driven analyst with a proven ability to optimize retail operations and supply chain efficiency. Skilled in leveraging data to drive informed decision-making, improve forecasting accuracy, and enhance customer satisfaction. Experienced in utilizing Python, SQL, and advanced analytics to streamline processes and reduce costs. Seeking a challenging role in the retail or supply chain industry to contribute to business growth and profitability.
 </p>
 </details>    
  
